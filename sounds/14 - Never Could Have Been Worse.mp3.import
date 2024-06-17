@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://c2xhkv185os8y"
+path="res://.godot/imported/14 - Never Could Have Been Worse.mp3-2f0bc9432af56a03c60f242ac3b4d6b0.mp3str"
+
+[deps]
+
+source_file="res://sounds/14 - Never Could Have Been Worse.mp3"
+dest_files=["res://.godot/imported/14 - Never Could Have Been Worse.mp3-2f0bc9432af56a03c60f242ac3b4d6b0.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

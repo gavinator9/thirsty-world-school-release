@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://rgay0m3r8pg5"
+path="res://.godot/imported/19 - Carrot _ Stickcreditsmix.mp3-76c3dd88f056ff330c8d141cec6af13e.mp3str"
+
+[deps]
+
+source_file="res://sounds/19 - Carrot _ Stickcreditsmix.mp3"
+dest_files=["res://.godot/imported/19 - Carrot _ Stickcreditsmix.mp3-76c3dd88f056ff330c8d141cec6af13e.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

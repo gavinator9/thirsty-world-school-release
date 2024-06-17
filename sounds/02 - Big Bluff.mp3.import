@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://b5bt56fwhcln4"
+path="res://.godot/imported/02 - Big Bluff.mp3-c11f2018113e4a9a489a87377d7a1857.mp3str"
+
+[deps]
+
+source_file="res://sounds/02 - Big Bluff.mp3"
+dest_files=["res://.godot/imported/02 - Big Bluff.mp3-c11f2018113e4a9a489a87377d7a1857.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4
